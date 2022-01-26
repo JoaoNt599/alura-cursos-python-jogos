@@ -1,0 +1,11 @@
+banana
+melancia
+morango
+abacate
+jaca
+laranja
+tomate
+uva
+teclado
+telefone
+computador
